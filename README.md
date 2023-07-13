@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohit234524
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning python,R and sql langauge.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ->contact.no ,via whatsapp(9122633516)
 
 <!---
